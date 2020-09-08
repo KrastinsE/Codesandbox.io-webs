@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* .ReactPlayer {
+  background-attachment: ReactPlayer;
+  display: flex;
+  justify-content: "center";
+  align-items: "center";
+} */
+
+.Ytdist {
+  margin: 20px;
+}
+
+.FloatLeft {
+  float: left;
+}
+
+.FloatRight {
+  float: right;
+}
+
+.EDIBOtext {
+  padding: 10px;
+  margin: 10px;
+  background-color: #ffde00;
+  color: #333;
+  display: inline-block;
+  font-family: monospace;
+  font-size: 32px;
+  text-align: center;
+}
+
+.Next {
+  padding: 4px;
+  margin: 1px;
+  background-color: #ff3300;
+  color: #333;
+  display: inline-block;
+  font-family: monospace;
+  font-size: 10px;
+  text-align: center;
+}
